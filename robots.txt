@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kamilacadenae-code.github.io/arte-y-comunicacion/sitemap.xml
